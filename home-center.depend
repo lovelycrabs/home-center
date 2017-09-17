@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1505663121 source:/home/heng/projects/home-center/main.c
+	<stdio.h>
+	<stdlib.h>
+	<signal.h>
+	"confparser.h"
+	"logfile.h"
+	"sens_server.h"
+
+1503830829 source:/home/heng/projects/home-center/util/conf.c
+	<ctype.h>
+	"conf.h"
+
+1503831136 /home/heng/projects/home-center/util/conf.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+
+1505459802 source:/home/heng/projects/home-center/server/logfile.c
+	"logfile.h"
+	<stdio.h>
+	<stdarg.h>
+	<time.h>
+	<assert.h>
+
+1504173720 /home/heng/projects/home-center/server/logfile.h
+	<stdio.h>
+	<pthread.h>
+
+1505374248 source:/home/heng/projects/home-center/server/confparser.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	"confparser.h"
+
+1505288502 /home/heng/projects/home-center/server/confparser.h
+
+1505552099 source:/home/heng/projects/home-center/server/sens_server.c
+	"sens_server.h"
+	<assert.h>
+	"logfile.h"
+	"util.h"
+
+1505551696 /home/heng/projects/home-center/server/sens_server.h
+	"common.h"
+	<pthread.h>
+
+1504160379 /home/heng/projects/home-center/common/socksupport.h
+	"global.h"
+	<winsock2.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1505646643 /home/heng/projects/home-center/common/global.h
+	<stdlib.h>
+	<stdio.h>
+
+1505662676 /home/heng/projects/home-center/server/common.h
+	"global.h"
+	<winsock2.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1505544060 source:/home/heng/projects/home-center/server/system_controller.c
+	<sqlite3.h>
+	"system_constroller.h"
+	"logfile.h"
+	"sens_server.h"
+
+1504614504 /home/heng/projects/home-center/server/system_constroller.h
+	"common.h"
+
+1505548835 source:/home/heng/projects/home-center/server/util.c
+	"util.h"
+	<string.h>
+
+1505397816 /home/heng/projects/home-center/server/util.h
+	<stdio.h>
+	<stdlib.h>
+
+1505663098 source:/home/heng/projects/home-center/server/common.c
+	"common.h"
+

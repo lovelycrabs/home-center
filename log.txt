@@ -1,0 +1,54 @@
+[29/Aug/2017:08:52:35 PDT] start**
+[29/Aug/2017:08:52:35 PDT] value is (null) 
+[29/Aug/2017:08:52:35 PDT] value is (null) 
+[29/Aug/2017:08:52:35 PDT] value is (null) 
+[29/Aug/2017:08:52:35 PDT] value is (null) 
+[29/Aug/2017:08:52:35 PDT] value is (null) 
+[29/Aug/2017:08:52:56 PDT] start**
+[29/Aug/2017:08:52:56 PDT] value is (null) 
+[29/Aug/2017:08:52:56 PDT] value is (null) 
+[29/Aug/2017:08:52:56 PDT] value is (null) 
+[29/Aug/2017:08:52:56 PDT] value is (null) 
+[29/Aug/2017:08:52:56 PDT] value is (null) 
+[29/Aug/2017:08:56:33 PDT] start**
+[29/Aug/2017:08:56:33 PDT] value is (null) 
+[29/Aug/2017:08:56:33 PDT] value is (null) 
+[29/Aug/2017:08:56:33 PDT] value is (null) 
+[29/Aug/2017:08:56:33 PDT] value is (null) 
+[29/Aug/2017:08:56:33 PDT] value is (null) 
+[29/Aug/2017:08:57:01 PDT] start**
+[29/Aug/2017:08:57:01 PDT] value is (null) ,0.101000
+[29/Aug/2017:08:57:01 PDT] value is (null) ,0.101000
+[29/Aug/2017:08:57:01 PDT] value is (null) ,0.101000
+[29/Aug/2017:08:57:01 PDT] value is (null) ,0.101000
+[29/Aug/2017:08:57:01 PDT] value is (null) ,0.101000
+[29/Aug/2017:08:57:48 PDT] start**
+[29/Aug/2017:08:57:48 PDT] value is (null) ,0.101000
+[29/Aug/2017:08:57:48 PDT] value is (null) ,0.101000
+[29/Aug/2017:08:57:48 PDT] value is (null) ,0.101000
+[29/Aug/2017:08:57:48 PDT] value is (null) ,0.101000
+[29/Aug/2017:08:57:48 PDT] value is (null) ,0.101000
+[2017-08-29 09:00:28]: start**
+[2017-08-29 09:00:28]: value is (null) ,0.101000
+[2017-08-29 09:00:28]: value is (null) ,0.101000
+[2017-08-29 09:00:28]: value is (null) ,0.101000
+[2017-08-29 09:00:28]: value is (null) ,0.101000
+[2017-08-29 09:00:28]: value is (null) ,0.101000
+[2017-08-30 00:01:41]: start**
+[2017-08-30 00:01:41]: value is (null) ,0.101000
+[2017-08-30 00:01:41]: value is (null) ,0.101000
+[2017-08-30 00:01:41]: value is (null) ,0.101000
+[2017-08-30 00:01:41]: value is (null) ,0.101000
+[2017-08-30 00:01:41]: value is (null) ,0.101000
+[2017-08-30 22:56:18]: start**
+[2017-08-30 22:56:18]: value is (null) ,0.101000
+[2017-08-30 22:56:18]: value is (null) ,0.101000
+[2017-08-30 22:56:18]: value is (null) ,0.101000
+[2017-08-30 22:56:18]: value is (null) ,0.101000
+[2017-08-30 22:56:18]: value is (null) ,0.101000
+[2017-08-30 23:02:07]: start**
+[2017-08-30 23:02:07]: value is (null) ,0.101000
+[2017-08-30 23:02:07]: value is (null) ,0.101000
+[2017-08-30 23:02:07]: value is (null) ,0.101000
+[2017-08-30 23:02:07]: value is (null) ,0.101000
+[2017-08-30 23:02:07]: value is (null) ,0.101000

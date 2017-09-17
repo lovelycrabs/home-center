@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="home-center" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/home-center" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-DPTHREADS" />
+					<Add directory="server" />
+					<Add directory="common" />
+				</Compiler>
+				<Linker>
+					<Add library="pthread" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/home-center" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="common/global.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="server/common.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="server/common.h" />
+		<Unit filename="server/confparser.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="server/confparser.h" />
+		<Unit filename="server/logfile.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="server/logfile.h" />
+		<Unit filename="server/sens_server.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="server/sens_server.h" />
+		<Unit filename="server/system_constroller.h" />
+		<Unit filename="server/system_controller.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="server/util.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="server/util.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
